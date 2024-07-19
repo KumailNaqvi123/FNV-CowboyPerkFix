@@ -1,0 +1,24 @@
+if isModLoaded "NewVegasBounties.esp"
+    ListAddForm PerkCowboyWeapons aaFergusonRifle
+    ListAddForm PerkCowboyWeapons aaSweetRevenge
+    ListAddForm PerkCowboyWeapons aaJackRevolver
+    ListAddForm PerkCowboyWeapons aaKurtShotgun
+Print "NVB I weapons added to Cowboy perk formlist."
+endif
+
+if isModLoaded "NewVegasBountiesII.esp"
+    ListAddForm PerkCowboyWeapons aaRedBearKnife
+    ListAddForm PerkCowboyWeapons aaSergioRevolverPlayable
+    ListAddForm PerkCowboyWeapons aaEthanPistol
+Print "NVB II weapons added to Cowboy perk formlist."
+endif
+
+if isModLoaded "NewVegasBountiesIII.esp"
+    ListAddForm PerkCowboyWeapons aaMarkoPistol
+Print "NVB III weapons added to Cowboy perk formlist."
+endif
+
+if isModLoaded "Dual-Sweet-Revenge-And-Old-Scratch.esp"
+    ListAddForm PerkCowboyWeapons WeapDualSweetRevengeANDOldScratch
+Print "NVB III dual weaponry added to Cowboy perk formlist."
+endif
