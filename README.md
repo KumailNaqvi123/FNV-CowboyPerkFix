@@ -21,4 +21,3 @@ This is a Papyrus script to fix the bugged Cowboy perk in fallout new Vegas, ext
 3. **Activate the mod**:
    - Launch your mod manager (e.g., Nexus Mod Manager, Vortex).
    - Ensure that the mod is activated and is lower in the load order than the required mods.
-   - 
