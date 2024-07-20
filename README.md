@@ -21,3 +21,11 @@ This is a Papyrus script to fix the bugged Cowboy perk in fallout new Vegas, ext
 3. **Activate the mod**:
    - Launch your mod manager (e.g., Nexus Mod Manager, Vortex).
    - Ensure that the mod is activated and is lower in the load order than the required mods.
+
+## Compatibility
+This mod is compatible with other mods that do not modify the "Cowboy" perk formlist.
+Ensure that the required mods are installed and active for this mod to function correctly.
+
+##Credits
+Someguy2000 for the New Vegas Bounties series.
+Author of Dual-Sweet-Revenge-And-Old-Scratch mod for their contribution.
